@@ -36,7 +36,9 @@ run time: the finished PNG is embedded in the repo as base64 text
 (`img_part1.py`, `img_part2.py`, `img_part3.py`) because the
 repository hosting used here cannot store binary files, and `main.py`
 decodes those bytes and writes them to `$MAKEFUN_OUTPUT_DIR` (or
-`/output/entry.png`). No network, no randomness, no timestamps.
+`/output/entry.png`). Each part stores its base64 as a single line:
+the PNG is data, not code, so wrapping it over thousands of lines
+would misrepresent the file. No network, no randomness, no timestamps.
 
 ## Facts
 

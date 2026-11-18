@@ -377,7 +377,7 @@ BRIEFS = [
     ("Israel:", "Inquiry calls over Netanyahu election arrests"),
     ("France:", "Depardieu drops appeal, conviction stands"),
     ("Manila:", "Trump lands for ASEAN summit and Quad talks"),
-    ("Australia:", "Canberra sanctions Israeli settlers, builder"),
+    ("Australia:", "Canberra sanctions Israeli settlers, a builder"),
 ]
 
 FOOTER_L1 = "Every story happened or was first reported on Tuesday 17 November 2026."
