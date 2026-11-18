@@ -1,5 +1,9 @@
 # Sum up 17 November's world news in one image
 
+[![make.fun](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/alam0xs/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/alam0xs/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
 Entry for make.fun bounty
 [`news-image-20261117`](https://make.fun/bounty/news-image-20261117):
 a program that writes one image summing up the world's news of
