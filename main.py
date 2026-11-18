@@ -2,7 +2,7 @@
 """Entry program for make.fun bounty news-image-20261117.
 
 Writes the poster "THE WORLD - TUESDAY, 17 NOVEMBER 2026" (1024x1024 PNG,
-30 stories, 6 continents) to $MAKEFUN_OUTPUT_DIR/entry.png, or to
+39 stories, 6 continents) to $MAKEFUN_OUTPUT_DIR/entry.png, or to
 /output/entry.png when that variable is not set.
 
 Standard library only, no network, fully deterministic: the PNG bytes are

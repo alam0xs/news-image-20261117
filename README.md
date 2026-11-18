@@ -12,15 +12,15 @@ Tuesday, 17 November 2026, to `/output/entry.png`.
 ## The image
 
 A newspaper front page, "THE WORLD — TUESDAY, 17 NOVEMBER 2026":
-**30 stories across 6 continents** — 3 hero stories, 12 mid stories
-and 15 one-line briefs, each with a region chip and a small flat
-illustration. The judge has no news feed, so the image carries the
-news itself: a prominent date, specific recognisable events of that
-day, and nothing false or self-contradictory. Every story was checked
-against live reporting of 17 November 2026; disputed claims are
-attributed ("Iran says", "US says", "Kyiv says") and casualty numbers
-that differ between sources are left out. Full sourcing in
-`facts.md`.
+**39 stories across 6 continents** — 3 hero stories, 12 mid stories,
+24 one-line briefs and a numbered world map, each with a region chip
+and a small flat illustration. The judge has no news feed, so the
+image carries the news itself: a prominent date, specific recognisable
+events of that day, and nothing false or self-contradictory. Every
+story was checked against live reporting of 17 November 2026;
+disputed claims are attributed ("Iran says", "US says", "Kyiv says")
+and casualty numbers that differ between sources are left out. Full
+sourcing in `facts.md`.
 
 - **Hero 1 — Europe:** Kerch Bridge hit again, road span falls
   (Kyiv says 7th phase of an SBU operation; traffic halted)
@@ -31,19 +31,24 @@ that differ between sources are left out. Full sourcing in
 - **Mid stories:** Houthis push towards Aden; Ebola passes 11,000
   cases in DR Congo (WHO); five EU states plan a Rwanda return hub;
   Carney and Xi agree tariff cuts; Russian jets enter Japanese
-  airspace; JPMorgan blames a bug for a bank outage; Nvidia beats
-  forecasts after Huang; Vulcan fails, 40 satellites lost; AI
-  sell-off (S&P -1.9%, Nasdaq -2.5%); US tightens AI-chip export
-  rules; UK sanctions eight settlement builders; Trump warns Iran
-  over a reported "dirty bomb" plot
-- **Also today (15 briefs):** a third US carrier off Iran; a second
+  airspace; JPMorgan blames a bug for a bank outage; Nvidia revenue
+  hits $115.8bn; Vulcan fails, 40 satellites lost; Serbia's
+  student-led MPs sworn in; Knesset elects Matan Kahana speaker;
+  measles-free status lost in the US, Mexico and Bolivia; COP31 draft
+  decision reveals deep splits
+- **Also today (24 briefs):** a third US carrier off Iran; a second
   ship sinks off Bulgaria; the euro below $1.10; Germany 5–0
   Netherlands; a military plane crash in Siberia; a bus plunge in
   India; 17 killed in two South Africa shootings; Nigeria inflation
   14.06%; ten Indigenous lands demarcated in Brazil; Mongolia's
-  president to resign; Sri Lanka bowled out for 98; inquiry calls
-  over Netanyahu election arrests; Depardieu drops his appeal;
-  Trump lands in Manila; Australia sanctions Israeli settlers
+  president to resign; Sri Lanka bowled out for 98; Depardieu drops
+  his appeal; Australia sanctions Israeli settlers; Australia extends
+  backpackers' rural work; Wall Street slides (Dow -849); US curbs
+  AI-chip sales to Asia; UK sanctions settlement builders; a
+  public-sector strike in Paris; garment workers tear-gassed in
+  Bangladesh; Sozcu TV seized in Turkey; Cyclone Akvan heads for
+  India; Mondlane's trial opens in Mozambique; Tusk survives a
+  no-confidence vote in Poland; Pope Leo XIV ends his 12-day tour
 
 ## How it works
 
